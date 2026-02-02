@@ -82,6 +82,25 @@ Attributes = 2 → Visible
 
 Attributes = 1 → Hidden
 
+## 🪟 Windows Compatibility
+
+This script is compatible with the following Windows versions:
+
+- ✅ **Windows 11** (All editions)
+- ✅ **Windows 10** (All editions)
+- ⚠️ **Windows 8 / 8.1** (Should work, but not officially tested)
+- ❌ **Windows 7 and earlier** (Not supported)
+
+### Notes:
+- The script relies on Windows Power Management registry GUIDs
+- These GUIDs exist in Windows 10 and Windows 11
+- Actual boost behavior depends on:
+  - CPU support
+  - BIOS/UEFI configuration
+  - OEM power management restrictions
+
+> Showing the option does not guarantee aggressive boosting on all devices.
+
 ## 📜 License
 MIT License – use, modify, and share freely. 
 
