@@ -38,15 +38,15 @@ Run **PowerShell as Administrator**, then execute:
 ```powershell
 irm https://raw.githubusercontent.com/jailideaid/Disable-Cpu-Turbo-Boost/refs/heads/main/disablecpuboost.ps1 | iex
 ```
-<img width="773" height="729" alt="Screenshot 2026-02-03 141520" src="https://github.com/user-attachments/assets/72e54be8-d9b4-46f6-a9c0-bfe527ef3fd9" />
-<img width="1169" height="512" alt="Screenshot 2026-02-03 141121" src="https://github.com/user-attachments/assets/98c09cdd-2dda-46ee-af77-d273e6547388" />
-<img width="1169" height="512" alt="Screenshot 2026-02-03 141201" src="https://github.com/user-attachments/assets/cc771090-de1e-4061-b7b7-fa7910c8232e" />
-<img width="1169" height="512" alt="Screenshot 2026-02-03 141205" src="https://github.com/user-attachments/assets/538c1d52-7c7e-4ed7-8e16-6ca8dc0b7bc3" />
-<img width="1169" height="512" alt="Screenshot 2026-02-03 141211" src="https://github.com/user-attachments/assets/103c3dfb-a927-4db7-92f1-196181112ba5" />
-<img width="1125" height="634" alt="Screenshot 2026-02-03 141236" src="https://github.com/user-attachments/assets/a969d982-efea-477a-b9f6-07d2dc3e824e" />
-<img width="1125" height="634" alt="Screenshot 2026-02-03 141244" src="https://github.com/user-attachments/assets/50e01595-7328-4f40-bb8a-47c1ce5bc025" />
-<img width="1125" height="634" alt="Screenshot 2026-02-03 141253" src="https://github.com/user-attachments/assets/082f07d5-4b76-4c08-983e-894ad67ba03d" />
-<img width="1125" height="634" alt="Screenshot 2026-02-03 141301" src="https://github.com/user-attachments/assets/9f6ff41f-2749-4507-86a1-39a7ccb6dfc5" />
+<img width="500" height="729" alt="Screenshot 2026-02-03 141520" src="https://github.com/user-attachments/assets/72e54be8-d9b4-46f6-a9c0-bfe527ef3fd9" />
+<img width="773" height="512" alt="Screenshot 2026-02-03 141121" src="https://github.com/user-attachments/assets/98c09cdd-2dda-46ee-af77-d273e6547388" />
+<img width="773" height="512" alt="Screenshot 2026-02-03 141201" src="https://github.com/user-attachments/assets/cc771090-de1e-4061-b7b7-fa7910c8232e" />
+<img width="773" height="512" alt="Screenshot 2026-02-03 141205" src="https://github.com/user-attachments/assets/538c1d52-7c7e-4ed7-8e16-6ca8dc0b7bc3" />
+<img width="773" height="512" alt="Screenshot 2026-02-03 141211" src="https://github.com/user-attachments/assets/103c3dfb-a927-4db7-92f1-196181112ba5" />
+<img width="773" height="634" alt="Screenshot 2026-02-03 141236" src="https://github.com/user-attachments/assets/a969d982-efea-477a-b9f6-07d2dc3e824e" />
+<img width="773" height="634" alt="Screenshot 2026-02-03 141244" src="https://github.com/user-attachments/assets/50e01595-7328-4f40-bb8a-47c1ce5bc025" />
+<img width="773" height="634" alt="Screenshot 2026-02-03 141253" src="https://github.com/user-attachments/assets/082f07d5-4b76-4c08-983e-894ad67ba03d" />
+<img width="773" height="634" alt="Screenshot 2026-02-03 141301" src="https://github.com/user-attachments/assets/9f6ff41f-2749-4507-86a1-39a7ccb6dfc5" />
 <img width="404" height="442" alt="Screenshot 2026-02-03 141312" src="https://github.com/user-attachments/assets/10b93a94-4365-4cd7-b5cc-c746b707f997" />
 
 ## 📂 Manual Usage
